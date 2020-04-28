@@ -17,7 +17,7 @@
     "postinstall": ""
   },
   "build": {
-    "productName": "snow",
+    "productName": "TeRny",
     "appId": "com.example.yourapp",
     "directories": {
       "output": "build"
