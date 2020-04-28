@@ -54,19 +54,19 @@ body {
     /* Color 可以自定义相关配色 */
     /* var属性兼容性 --> https://www.caniuse.com/#feat=css-variables */
     /* 标准色 */
-    --red: rgba(229, 77, 66, 0.6);
-    --orange: rgba(243, 121, 27, 0.6);
-    --yellow: rgba(251, 189, 8, 0.6);
-    --olive: rgba(141, 198, 63, 0.6);
-    --green: rgba(57, 181, 74, 0.6);
-    --cyan: rgba(28, 187, 180, 0.6);
-    --blue: rgba(0, 129, 255, 0.6);
-    --purple: rgba(103, 57, 182, 0.6);
-    --mauve: rgba(156, 38, 176, 0.6);
-    --pink: rgba(224, 57, 151, 0.6);
-    --brown: rgba(165, 103, 63, 0.6);
-    --grey: rgba(135, 153, 163, 0.6);
-    --black: rgba(51, 51, 51, 0.6);
+    --red: rgba(229, 77, 66, 0.8);
+    --orange: rgba(243, 121, 27, 0.8);
+    --yellow: rgba(251, 189, 8, 0.8);
+    --olive: rgba(141, 198, 63, 0.8);
+    --green: rgba(57, 181, 74, 0.8);
+    --cyan: rgba(28, 187, 180, 0.8);
+    --blue: rgba(0, 129, 255, 0.8);
+    --purple: rgba(103, 57, 182, 0.8);
+    --mauve: rgba(156, 38, 176, 0.8);
+    --pink: rgba(224, 57, 151, 0.8);
+    --brown: rgba(165, 103, 63, 0.8);
+    --grey: rgba(135, 153, 163, 0.8);
+    --black: rgba(51, 51, 51, 0.8);
 
     --darkGray: #666666;
     --gray: #aaaaaa;
